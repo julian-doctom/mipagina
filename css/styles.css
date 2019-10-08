@@ -1,0 +1,45 @@
+p{
+	color: red;
+	margin: 120px;
+	border: 1px solid black;
+}
+.navegador{
+	width: 40px;
+	height: 50px;
+	border: 1px solid #CCC;
+	float: left;
+	margin-top: 0px;
+	background: #000699;
+	/*margin: 0 auto;*/
+}
+
+header{
+	width: 900px;
+	height: 1 00px;
+	border: 0px solid #000;
+	float-right:;
+	background: #55D6AA;
+}
+
+/*head::after{
+
+}*/
+
+nav{
+	/*float: right;*/
+	float-left;
+}
+nav ul{
+	text-decoration: none;
+	padding: 10px 10px;
+	border: 0px solid #ccc;
+	color: #fff;
+}
+
+nav ul li{
+	display: inline;
+	margin-left: 120px;
+	padding-top: 20px; 
+	padding-right: 3px;
+	padding-left: 3px;
+}
